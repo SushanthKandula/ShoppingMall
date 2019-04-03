@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".sub">
+    tools:context=".sub_food">
 
     <Button
         android:text="View"
@@ -19,5 +19,5 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/recycle"
-       ></android.support.v7.widget.RecyclerView>
+        ></android.support.v7.widget.RecyclerView>
 </LinearLayout>

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/test5"
-    tools:context=".categories">
+    tools:context=".categories_elec">
 
     <TextView
         android:id="@+id/textView"
